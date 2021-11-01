@@ -1,0 +1,14 @@
+E:\unity\Patrones-Memento\Patrones-Memento\obj\Debug\netcoreapp3.1\Patrones-Memento.csproj.AssemblyReference.cache
+E:\unity\Patrones-Memento\Patrones-Memento\obj\Debug\netcoreapp3.1\Patrones-Memento.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\Patrones-Memento\Patrones-Memento\obj\Debug\netcoreapp3.1\Patrones-Memento.AssemblyInfoInputs.cache
+E:\unity\Patrones-Memento\Patrones-Memento\obj\Debug\netcoreapp3.1\Patrones-Memento.AssemblyInfo.cs
+E:\unity\Patrones-Memento\Patrones-Memento\obj\Debug\netcoreapp3.1\Patrones-Memento.csproj.CoreCompileInputs.cache
+E:\unity\Patrones-Memento\Patrones-Memento\bin\Debug\netcoreapp3.1\Patrones-Memento.exe
+E:\unity\Patrones-Memento\Patrones-Memento\bin\Debug\netcoreapp3.1\Patrones-Memento.deps.json
+E:\unity\Patrones-Memento\Patrones-Memento\bin\Debug\netcoreapp3.1\Patrones-Memento.runtimeconfig.json
+E:\unity\Patrones-Memento\Patrones-Memento\bin\Debug\netcoreapp3.1\Patrones-Memento.runtimeconfig.dev.json
+E:\unity\Patrones-Memento\Patrones-Memento\bin\Debug\netcoreapp3.1\Patrones-Memento.dll
+E:\unity\Patrones-Memento\Patrones-Memento\bin\Debug\netcoreapp3.1\Patrones-Memento.pdb
+E:\unity\Patrones-Memento\Patrones-Memento\obj\Debug\netcoreapp3.1\Patrones-Memento.dll
+E:\unity\Patrones-Memento\Patrones-Memento\obj\Debug\netcoreapp3.1\Patrones-Memento.pdb
+E:\unity\Patrones-Memento\Patrones-Memento\obj\Debug\netcoreapp3.1\Patrones-Memento.genruntimeconfig.cache

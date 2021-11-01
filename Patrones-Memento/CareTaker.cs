@@ -13,7 +13,7 @@ namespace Patrones_Memento
         }
         public Memento GetMemento(int index)
         {
-            return mementos.IndexOf(mementos,index); 
+            return mementos[index];
         }
 
 

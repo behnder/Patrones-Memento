@@ -11,7 +11,7 @@ namespace Patrones_Memento
 
         public override string ToString()
         {
-            return $"Juego [nombre= {Nombre}, checkpoint ${Checkpoint}";
+            return $"Juego [nombre= {Nombre}, checkpoint {Checkpoint}]";
         }
 
 
