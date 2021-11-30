@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\unity\\Patrones-Memento\\Patrones-Memento\\Patrones-Memento.csproj": {}
+    "E:\\unity\\quark\\Patrones\\Patrones-Memento\\Patrones-Memento\\Patrones-Memento.csproj": {}
   },
   "projects": {
-    "E:\\unity\\Patrones-Memento\\Patrones-Memento\\Patrones-Memento.csproj": {
+    "E:\\unity\\quark\\Patrones\\Patrones-Memento\\Patrones-Memento\\Patrones-Memento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\unity\\Patrones-Memento\\Patrones-Memento\\Patrones-Memento.csproj",
+        "projectUniqueName": "E:\\unity\\quark\\Patrones\\Patrones-Memento\\Patrones-Memento\\Patrones-Memento.csproj",
         "projectName": "Patrones-Memento",
-        "projectPath": "E:\\unity\\Patrones-Memento\\Patrones-Memento\\Patrones-Memento.csproj",
+        "projectPath": "E:\\unity\\quark\\Patrones\\Patrones-Memento\\Patrones-Memento\\Patrones-Memento.csproj",
         "packagesPath": "C:\\Users\\Corvo\\.nuget\\packages\\",
-        "outputPath": "E:\\unity\\Patrones-Memento\\Patrones-Memento\\obj\\",
+        "outputPath": "E:\\unity\\quark\\Patrones\\Patrones-Memento\\Patrones-Memento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Corvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
